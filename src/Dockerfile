@@ -5,7 +5,7 @@ FROM openjdk:11-jre-slim
 WORKDIR /src
 
 # Copy the executable jar file from the target directory to the container
-COPY target/demo-0.0.1-SNAPSHOT.jar /src/app.jar
+COPY demo-0.0.1-SNAPSHOT.jar /src/app.jar
 
 
 # Expose the port the application runs on
