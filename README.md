@@ -21,10 +21,12 @@
     <a href="https://github.com/Tybenson0/Volkswagoneer/issues">Report Bug</a>
     ·
     <a href="https://github.com/Tybenson0/Volkswagoneer/pulls">Request Feature</a>
+    ·
+    <a href="https://volkswagoneer.onrender.com">View Live Site</a>
   </p>
 </div>
 
-
+<p align="center">NOTE: The live site is hosted on render.com's free tier and therefore could take a minut to load</p>
 
 
 
@@ -58,6 +60,12 @@
 ## Getting Started
 
 Clone the project to your local machine and have fun!
+
+OR 
+
+View the live site at https://volkswagoneer.onrender.com
+
+<p align="center">NOTE: The live site is hosted on render.com's free tier and therefore could take a minut to load</p>
 
 <br />
 
